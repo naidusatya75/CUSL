@@ -1,0 +1,11 @@
+C:\Satya\WeatherPart_one\obj\Debug\WeatherPart_one.csproj.AssemblyReference.cache
+C:\Satya\WeatherPart_one\obj\Debug\WeatherPart_one.csproj.SuggestedBindingRedirects.cache
+C:\Satya\WeatherPart_one\obj\Debug\WeatherPart_one.csproj.CoreCompileInputs.cache
+C:\Satya\WeatherPart_one\bin\Debug\WeatherPart_one.exe.config
+C:\Satya\WeatherPart_one\bin\Debug\WeatherPart_one.exe
+C:\Satya\WeatherPart_one\bin\Debug\WeatherPart_one.pdb
+C:\Satya\WeatherPart_one\bin\Debug\System.IO.Abstractions.dll
+C:\Satya\WeatherPart_one\bin\Debug\System.IO.Abstractions.xml
+C:\Satya\WeatherPart_one\obj\Debug\WeatherPart_one.csproj.CopyComplete
+C:\Satya\WeatherPart_one\obj\Debug\WeatherPart_one.exe
+C:\Satya\WeatherPart_one\obj\Debug\WeatherPart_one.pdb

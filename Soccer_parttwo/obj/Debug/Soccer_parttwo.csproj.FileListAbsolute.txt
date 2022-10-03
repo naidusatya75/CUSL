@@ -1,0 +1,3 @@
+C:\Satya\Soccer_parttwo\obj\Debug\Soccer_parttwo.csproj.AssemblyReference.cache
+C:\Satya\Soccer_parttwo\obj\Debug\Soccer_parttwo.csproj.SuggestedBindingRedirects.cache
+C:\Satya\Soccer_parttwo\obj\Debug\Soccer_parttwo.csproj.CoreCompileInputs.cache

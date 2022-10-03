@@ -1,0 +1,8 @@
+C:\Satya\SoccerLeague\obj\Debug\SoccerLeague.csproj.AssemblyReference.cache
+C:\Satya\SoccerLeague\obj\Debug\SoccerLeague.csproj.SuggestedBindingRedirects.cache
+C:\Satya\SoccerLeague\obj\Debug\SoccerLeague.csproj.CoreCompileInputs.cache
+C:\Satya\SoccerLeague\bin\Debug\SoccerLeague.exe.config
+C:\Satya\SoccerLeague\bin\Debug\SoccerLeague.exe
+C:\Satya\SoccerLeague\bin\Debug\SoccerLeague.pdb
+C:\Satya\SoccerLeague\obj\Debug\SoccerLeague.exe
+C:\Satya\SoccerLeague\obj\Debug\SoccerLeague.pdb
